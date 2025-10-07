@@ -1,0 +1,1 @@
+# studymate-notes-ai
