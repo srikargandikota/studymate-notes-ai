@@ -1,4 +1,4 @@
-# 📚 StudyMate Notes AI
+# StudyMate Notes AI
 
 **Paste in messy lecture notes, and get back a summary, the key concepts, and a map of how they connect.**
 
